@@ -88,3 +88,4 @@ wwwroot/
 logs/
 
 obj/
+bin/
